@@ -2,8 +2,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 from mpl_toolkits.mplot3d import Axes3D
-import scipy.linalg
-import csv
 
 # Import the data and assign to x, y and z
 print('File should a single column of 9 numbers.')
